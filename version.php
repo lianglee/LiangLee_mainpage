@@ -7,6 +7,6 @@
  * @copyright All right reserved Liang Lee 2012.
  * @File version.php 
  */
-$LiangLee_version = 27052012;
-$LiangLee_release = '1.1.0';
+$LiangLee_version = 01092012;
+$LiangLee_release = '1.1.1';
 ?>

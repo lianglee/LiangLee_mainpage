@@ -23,7 +23,7 @@ LiangLee_view('LiangleeFramework', 'forms/reg');
 echo ("</span></div>");
 echo ("<div id='LiangLee_mainpage_wcl'>");
 echo ("<h1>");
-LiangLee_img('LiangLee_mainpage','lianglee_main_m.jpg');
+echo LiangLee_img('LiangLee_mainpage','lianglee_main_m.jpg');
 echo "</h1>";
 ?>
 <!-- Main Page Author Liang Lee !-->
